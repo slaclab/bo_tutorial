@@ -5,4 +5,4 @@ Notebooks demonstrating Gaussian Process modeling and Bayesian optimization
 
 `bo_example_stepped.ipynb` demostrates and visualizes a simple 1D optimization problem solved with Bayesian optimization using Botorch.
 
-For more advanced usage without the hassle I suggest you check out `Xopt` https://github.com/ChristopherMayes/Xopt which implements a variety of Bayesian Optimization algorithms and more. 
+For more advanced usage without the hassle I suggest you check out `Xopt` https://github.com/ChristopherMayes/Xopt which implements a variety of Bayesian optimization algorithms and more. 
