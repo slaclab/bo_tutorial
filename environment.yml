@@ -1,0 +1,11 @@
+name: bo_tutorial
+channels:
+  - conda-forge
+  - gpytorch
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - botorch
+  - jupyter
+  - matplotlib
